@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project3.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  FileName.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+D:\code\Project3\Project3\FileName.cpp(9,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\code\Project3\Project3\FileName.cpp(10,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\code\Project3\Project3\FileName.cpp(4856,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\code\Project3\Project3\FileName.cpp(4856,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\code\Project3\Project3\FileName.cpp(4857,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\code\Project3\Project3\FileName.cpp(4857,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\code\Project3\Project3\FileName.cpp(4858,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\code\Project3\Project3\FileName.cpp(4858,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  Project3.vcxproj -> D:\code\Project3\x64\Debug\study.exe
